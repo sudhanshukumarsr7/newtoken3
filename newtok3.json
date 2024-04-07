@@ -1,0 +1,15 @@
+{
+    "name": "token07",
+    "description": "crowdfunding for educational institution",
+    "image": "https://i0.wp.com/seelemons.com/wp-content/uploads/2022/09/20220907_120130.jpg?resize=740%2C693&ssl=1",
+    "attributes": [
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        },
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        }
+    ]
+}
